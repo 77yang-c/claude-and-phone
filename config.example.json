@@ -1,0 +1,7 @@
+{
+  "port": 3456,
+  "bindAddr": "0.0.0.0",
+  "token": "",
+  "tailIntervalMs": 700,
+  "idleTimeoutMs": 1800000
+}
